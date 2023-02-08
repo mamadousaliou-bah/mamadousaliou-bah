@@ -4,15 +4,15 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-![Java](https://www.google.com)
-![CSS3](https://img.icons8.com/color/48/000000/html-5.png)
-![LUA](https://www.google.com)
-![JavaScript](https://www.google.com)
-![PostgreSQL](https://www.google.com)
-![Bootstrap](https://www.google.com)
-![MySQL](https://www.google.com)
-![C](https://www.google.com)
-![Debian](https://www.google.com)
+![Java](https://icons8.com/icon/13679/java)
+![CSS3](https://icons8.com/icon/21278/css3)
+![LUA](https://icons8.com/icon/KppI8aNv6oQe/lua-language)
+![JavaScript](https://icons8.com/icon/108784/javascript)
+![PostgreSQL](https://icons8.com/icon/38561/postgresql)
+![Bootstrap](https://icons8.com/icon/84710/bootstrap)
+![SQL](https://icons8.com/icon/13406/sql)
+![C](https://icons8.com/icon/40670/c-programming)
+![Debian](https://icons8.com/icon/17838/debian)
 
 
 <br>
