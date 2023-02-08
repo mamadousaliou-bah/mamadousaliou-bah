@@ -4,7 +4,7 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/javascript.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="60" width="60"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/javascript.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="60" width="60"/>     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/>
 
 
 <br>
