@@ -4,7 +4,8 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-HTML/CSS
+HTML
+
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 Java
@@ -14,10 +15,8 @@ JavaScript
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 JavaFX
-<img src="https://img.icons8.com/color/48/000000/javafx.png"/>
 
 JSP
-<img src="https://img.icons8.com/color/48/000000/java-server-pages.png"/>
 
 discord.js
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
