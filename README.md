@@ -4,7 +4,18 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" height="70" width="70"/>    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="70" width="70"/>    <img src="https://img.icons8.com/color/48/000000/javascript.png" height="70" width="70"/>    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="70" width="70"/>     <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="70" width="70"/>    <img src="https://img.icons8.com/color/48/000000/javafx.png" height="70" width="70"/>    <img src="https://img.icons8.com/color/48/000000/java-server-pages.png" height="70" width="70"/>
+<img src="https://img.icons8.com/color/48/000000/java.png"/> Java
+<img src="https://img.icons8.com/color/48/000000/php-logo.png"/> PHP
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3
+<img src="https://img.icons8.com/color/48/000000/lua-logo.png"/> LUA
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
+<img src="https://img.icons8.com/color/48/000000/symfony.png"/> Symfony
+<img src="https://img.icons8.com/color/48/000000/postgresql.png"/> PostgreSQL
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL
+<img src="https://img.icons8.com/color/48/000000/windows8.png"/> Windows
+<img src="https://img.icons8.com/color/48/000000/debian.png"/> Debian
 
 <br>
 
