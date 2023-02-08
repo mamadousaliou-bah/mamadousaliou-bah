@@ -4,18 +4,19 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-<img src="https://img.icons8.com/color/48/000000/java.png"/> Java
-<img src="https://img.icons8.com/color/48/000000/php-logo.png"/> PHP
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3
-<img src="https://img.icons8.com/color/48/000000/lua-logo.png"/> LUA
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
-<img src="https://img.icons8.com/color/48/000000/symfony.png"/> Symfony
-<img src="https://img.icons8.com/color/48/000000/postgresql.png"/> PostgreSQL
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL
-<img src="https://img.icons8.com/color/48/000000/windows8.png"/> Windows
-<img src="https://img.icons8.com/color/48/000000/debian.png"/> Debian
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="background-color: #f1c40f; width: 150px; height: 50px; text-align: center; margin: 10px;">Java</div>
+  <div style="background-color: #2980b9; width: 150px; height: 50px; text-align: center; margin: 10px;">CSS3</div>
+  <div style="background-color: #2ecc71; width: 150px; height: 50px; text-align: center; margin: 10px;">LUA</div>
+  <div style="background-color: #e74c3c; width: 150px; height: 50px; text-align: center; margin: 10px;">C</div>
+  <div style="background-color: #f39c12; width: 150px; height: 50px; text-align: center; margin: 10px;">JavaScript</div>
+  <div style="background-color: #9b59b6; width: 150px; height: 50px; text-align: center; margin: 10px;">Bootstrap</div>
+  <div style="background-color: #16a085; width: 150px; height: 50px; text-align: center; margin: 10px;">PostgreSQL</div>
+  <div style="background-color: #3498db; width: 150px; height: 50px; text-align: center; margin: 10px;">MySQL</div>
+  <div style="background-color: #f1c40f; width: 150px; height: 50px; text-align: center; margin: 10px;">Windows</div>
+  <div style="background-color: #2980b9; width: 150px; height: 50px; text-align: center; margin: 10px;">Debian</div>
+</div>
+
 
 <br>
 
