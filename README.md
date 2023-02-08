@@ -4,7 +4,8 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-[![Java](https://icons8.com/icon/13679/java)]
+[![Java]()]
+https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 ![CSS3](https://icons8.com/icon/21278/css3)
 ![LUA](https://icons8.com/icon/KppI8aNv6oQe/lua-language)
 ![JavaScript](https://icons8.com/icon/108784/javascript)
@@ -25,4 +26,4 @@ I am currently expanding my knowledge in the field of software development and I
 
 Feel free to reach out to me via LinkedIn.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/mamadousaliou-bah)
+[![LinkedIn Badge](https://icons8.com/icon/13679/java)](https://linkedin.com/in/mamadousaliou-bah)
