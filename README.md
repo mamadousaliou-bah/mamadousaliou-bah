@@ -4,26 +4,11 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-HTML
-
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-
-Java
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-
-JavaScript
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
-JavaFX
-
-JSP
-
-discord.js
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
-
-C
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-
 <br>
 
 
