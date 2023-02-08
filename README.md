@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mamadousaliou-bah
+# 👋 Hi, I’m Gossen
 
 I am a software developer and I’m interested in building great and efficient software that solves real-world problems. I believe in writing clean, maintainable and testable code.
 
