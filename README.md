@@ -5,7 +5,7 @@ I am a software developer and I’m interested in building great and efficient s
 # 💻 Technologies I Know
 
 ![Java](https://www.google.com)
-![CSS3](https://www.google.com)
+![CSS3](https://img.icons8.com/color/48/000000/html-5.png)
 ![LUA](https://www.google.com)
 ![JavaScript](https://www.google.com)
 ![PostgreSQL](https://www.google.com)
