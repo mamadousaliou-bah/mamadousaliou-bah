@@ -2,6 +2,32 @@
 
 I am a software developer and I’m interested in building great and efficient software that solves real-world problems. I believe in writing clean, maintainable and testable code.
 
+# 💻 Technologies I Know
+
+HTML/CSS
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+
+Java
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+
+JavaScript
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+JavaFX
+<img src="https://img.icons8.com/color/48/000000/javafx.png"/>
+
+JSP
+<img src="https://img.icons8.com/color/48/000000/java-server-pages.png"/>
+
+discord.js
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+
+C
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+
+<br>
+
+
 ## 🌱 I’m currently learning ...
 
 I am currently expanding my knowledge in the field of software development and I am also keeping up with the latest technologies in the industry.
