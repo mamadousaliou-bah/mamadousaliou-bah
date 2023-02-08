@@ -4,7 +4,7 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-<img src="https://icons8.com/icon/21278/css3" height="60" width="60"/>
+<img src="https://icons8.com/icon/21278/css3.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="60" width="60"/>
