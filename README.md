@@ -4,16 +4,11 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-[![Java]()]
-https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-![CSS3](https://icons8.com/icon/21278/css3)
-![LUA](https://icons8.com/icon/KppI8aNv6oQe/lua-language)
-![JavaScript](https://icons8.com/icon/108784/javascript)
-![PostgreSQL](https://icons8.com/icon/38561/postgresql)
-![Bootstrap](https://icons8.com/icon/84710/bootstrap)
-![SQL](https://icons8.com/icon/13406/sql)
-![C](https://icons8.com/icon/40670/c-programming)
-![Debian](https://icons8.com/icon/17838/debian)
+<img src="https://icons8.com/icon/21278/css3" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" height="60" width="60"/>
 
 
 <br>
@@ -26,4 +21,4 @@ I am currently expanding my knowledge in the field of software development and I
 
 Feel free to reach out to me via LinkedIn.
 
-[![LinkedIn Badge](https://icons8.com/icon/13679/java)](https://linkedin.com/in/mamadousaliou-bah)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/mamadousaliou-bah)
