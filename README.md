@@ -4,7 +4,7 @@ I am a software developer and I’m interested in building great and efficient s
 
 # 💻 Technologies I Know
 
-![Java](<img src="https://icons8.com/icon/13679/java" height="60" width="60"/>)
+[![Java](<img src="https://icons8.com/icon/13679/java" height="60" width="60"/>)]
 ![CSS3](https://icons8.com/icon/21278/css3)
 ![LUA](https://icons8.com/icon/KppI8aNv6oQe/lua-language)
 ![JavaScript](https://icons8.com/icon/108784/javascript)
